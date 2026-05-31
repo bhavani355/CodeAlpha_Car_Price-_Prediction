@@ -2,7 +2,7 @@
 
 # Car Price Prediction Project
 
-## Project Overview
+## Project Overview 
 This project predicts car selling prices using Machine Learning with Python.  
 The project uses Linear Regression to analyze and predict car prices based on different car features.
 
